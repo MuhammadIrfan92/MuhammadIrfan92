@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadIrfan92
+- 👋 Hi, I’m Muhammad Irfan
 - I am an Engineer.
 - 👀 I’m interested in web Development, Machine Learning and life.
 - 🌱 I’m currently learning my interests.
